@@ -1,3 +1,0 @@
-yo=17
-mo=15
-print("yo is {} years old and mo is {mo} years old")
